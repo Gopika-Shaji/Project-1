@@ -1,0 +1,146 @@
+.navbar{
+    background:rgb(129, 22, 22);
+}
+.brand{
+    margin-left: 20px;
+}
+.menu{
+    margin-right: 20px;
+    display: flex;
+}
+.menu a{
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;   
+}
+.menu a:hover{
+    opacity: 0.7;
+}
+.menu button{
+    background: rgb(129, 22, 22);
+    color: #fff;
+    padding: 10px;
+    border: none;
+}
+.profile{
+    background: #000;   
+}
+.profile img{
+    width: 60%;
+    height: 500px;
+    margin: 60px;
+}
+.profile p{
+    margin-left: 100px;
+}
+.profile h1{
+    margin-left:  100px;
+}
+.about{
+    background:rgb(129, 22, 22);
+    color: #fff;
+    padding: 50px;
+}
+.about .line{
+    border-bottom: 5px solid white;
+    width: 50%;
+}
+.about p{
+    line-height: 30px;
+}
+.experience{
+    background: black;
+    color: #fff;
+}
+.experience h3{
+    text-align: center;
+    padding-top: 30px;
+}
+.experience .line{
+    border-bottom: 5px solid white;
+    width: 20%;
+    margin-left: 40%;
+    padding: 10px;
+}
+.experience img{
+    height: 100px;
+    width: 100px;
+    padding-top: 20px;
+}
+.experience .col-6{
+    padding-left: 60px;
+}
+.skill-edu{
+    background:rgb(129, 22, 22);
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+}
+.skill-edu .line{
+    border-bottom: 5px solid white;
+    width: 20%;
+    margin-left: 40%;
+    padding: 10px;
+}
+.skill-edu table{
+    margin-left: 150px;
+    margin-top: 30px;
+
+}
+.skill-edu img{
+    width: 100px;
+    height: 100px;
+    padding: 10PX;
+}
+.contact{
+    background: black;
+    text-align: center;
+    color: #fff;
+    padding-top: 30px;
+}
+.contact .line{
+    border-bottom: 5px solid white;
+    width: 10%;
+    margin-left: 45%;
+    padding: 10px;
+}
+.contact table{
+    margin-top: 40px;
+    margin-left: 400px;
+}
+.contact input{
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.contact textarea{
+    width: 500px;
+}
+.contact button{
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 40px;
+    border: none;
+    background: rgb(129, 22, 22);
+    color: #fff;
+    border-radius: 5px;
+}
+.connect{
+    background: rgb(129, 22, 22);
+    
+}
+.connect .fa {
+    padding: 50px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: #fff;    
+}
+footer{
+    background: black;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
